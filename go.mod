@@ -1,4 +1,4 @@
-module github.com/heppu/go-template
+module github.com/reason4me/tasker
 
 go 1.24.2
 

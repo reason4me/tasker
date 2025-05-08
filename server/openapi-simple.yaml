@@ -137,11 +137,11 @@ components:
       content:
         application/json:
           schema:
-            $ref: "#/components/schemas/NewTask"
+            $ref: "#/components/descriptionschemas/NewTask"
 
   responses:
     ErrorResp:
-      description: Error response
+      : Error response
       content:
         application/json:
           schema:
